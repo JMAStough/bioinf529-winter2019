@@ -25,13 +25,14 @@
 |12.  |Mo 2/25/19	   | [Clustering](classes/class_20/class20.ipynb)	                                      |
 |13.  |We 2/27/19	   | [Building phylogenetic trees](classes/class_19/class19.ipynb)                      |
 |     |Spring Break  | 		                                                                                |
+|20.  |	   | [Tree searches / sorting](classes/class_18/class18.ipynb)		 		                  |
+
 |14.  |Mo 3/11/19	   | [Short-read mapping](classes/class_12/class12.ipynb)                               |
 |15.  |We 3/13/19	   | [Count-based data](classes/class_13/class13.ipynb)	                                |
 |16.  |Mo 3/18/19	   | [Variant analysis](classes/class_14/class14.ipynb)		                              |
 |17.  |We 3/20/19	   | [Genomics analysis on intervals & Genome Browsers](classes/class_15/class15.ipynb) |
 |18.  |Mo 4/1/19	   | [De novo sequence assembly](classes/class_16/class16.ipynb)		                    |
 |19.  |We 4/3/19	   | [Recursion / divide-and-conquer](classes/class_17/class17.ipynb)                   |
-|20.  |	   | [Tree searches / sorting](classes/class_18/class18.ipynb)		 		                  |
 |21.  |	   | [SVMs](classes/class_21/class21.ipynb)	                                            |
 |22.  |	   | [Founder problem and genetic drift](classes/class_22/class22.ipynb)                |
 |23.  |Mo 4/8/19	   | [Proteomic analysis](classes/class_23/class23.ipynb)	                              |
