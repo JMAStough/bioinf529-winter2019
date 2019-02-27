@@ -22,21 +22,20 @@
 |9.   |We 2/13/19	   | [Profile HMMs and Classification](classes/class_9/class9.ipynb)	                  |
 |10.  |Mo 2/18/19	   | [Pairwise alignments](classes/class_10/class10.ipynb)                              |
 |11.  |We 2/20/19	   | [Multiple sequence alignment](classes/class_11/class11.ipynb)                      |
-|12.  |Mo 2/25/19	   | [Clustering](classes/class_20/class20.ipynb)	                                      |
-|13.  |We 2/27/19	   | [Building phylogenetic trees](classes/class_19/class19.ipynb)                      |
+|12.  |Mo 2/25/19	   | [Clustering](classes/class_12/class12.ipynb)	                                      |
+|13.  |We 2/27/19	   | [Building phylogenetic trees](classes/class_13/class13.ipynb)                      |
 |     |Spring Break  | 		                                                                                |
-|20.  |	   | [Tree searches / sorting](classes/class_18/class18.ipynb)		 		                  |
+|14.  |Mo 3/11/19	   | [Tree searches / sorting + Recursion](classes/class10.md)	                        |
+|15.  |We 3/13/19	   | [Short-read mapping 1: suffix tree + BWT](classes/class13.md)                      |
+|16.  |Mo 3/18/19	   | [Short-read mapping 2: suffix tree + BWT](classes/class10.md)                      |
+|17.  |We 3/20/19	   | [Count-based data 1: coverage, variant calling](classes/class14.md)                |
+|18.  |Mo 3/25/19	   | [Count-based data 2: expression level, RNA](classes/class14.md)                    |
+|19.  |We 3/27/19	   | [Count-based data 3: eQTL, association test](classes/class14.md)                   |   
+|20.  |Mo 4/1/19	   | [Genomics analysis on intervals & Genome Browsers](classes/class16.md)	            |
+|21.  |We 4/3/19	   | [De novo sequence assembly: de Bruijn graph](classes/class26.md)                   |
+|22.  |Mo 4/8/19	   | [Proteomic analysis: peptide library, spectrum comparison](classes/class18.md)     |
+|23.  |We 4/10/19	   | [Proteomic quantification](classes/class17.md)                                     |
+|24.  |Mo 4/15/19	   | [Networks and Enrichment](classes/class19.md)                                      |
+|25.  |We 4/17/19	   | [Protein folding](classes/class27.md)                                              |
+|26.  |Mo 4/22/19	   | [Systems Biology](classes/class17.md)		                                          |
 
-|14.  |Mo 3/11/19	   | [Short-read mapping](classes/class_12/class12.ipynb)                               |
-|15.  |We 3/13/19	   | [Count-based data](classes/class_13/class13.ipynb)	                                |
-|16.  |Mo 3/18/19	   | [Variant analysis](classes/class_14/class14.ipynb)		                              |
-|17.  |We 3/20/19	   | [Genomics analysis on intervals & Genome Browsers](classes/class_15/class15.ipynb) |
-|18.  |Mo 4/1/19	   | [De novo sequence assembly](classes/class_16/class16.ipynb)		                    |
-|19.  |We 4/3/19	   | [Recursion / divide-and-conquer](classes/class_17/class17.ipynb)                   |
-|21.  |	   | [SVMs](classes/class_21/class21.ipynb)	                                            |
-|22.  |	   | [Founder problem and genetic drift](classes/class_22/class22.ipynb)                |
-|23.  |Mo 4/8/19	   | [Proteomic analysis](classes/class_23/class23.ipynb)	                              |
-|24.  |We 4/10/19	   | [Proteomic quantification](classes/class_24/class24.ipynb)                         |
-|25.  |Mo 4/15/19	   | [Networks and Enrichment](classes/class_25/class25.ipynb)                          |
-|26.  |We 4/17/19	   | [Protein folding](classes/class_26/class26.ipynb)                                  |
-|27.  |Mo 4/22/19	   | [Systems Biology](classes/class_27/class27.ipynb)		                              |
